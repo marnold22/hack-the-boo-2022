@@ -42,3 +42,8 @@
 - Day 4: Poof
   - *NOTE: Did not include challenge files in repository as they were too large*
 - Day 5: Downgrade
+
+## Writeup Links & Resources (after the competition)
+
+1. CREDIT @LazyTitan33 <https://github.com/LazyTitan33/CTF-Writeups/tree/main/HTB%20-%20HackTheBoo>
+2. CREDIT: @Pengrey <https://pengrey.com/tags/hacktheboo_2022/>
